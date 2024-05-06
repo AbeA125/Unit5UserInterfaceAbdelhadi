@@ -301,8 +301,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 60
-  m_fontSizeBase: 60
+  m_fontSize: 90
+  m_fontSizeBase: 90
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -511,6 +511,7 @@ MonoBehaviour:
   - {fileID: 7711378830717882823, guid: 261924f73cbd64f4ca16f687c076ea91, type: 3}
   - {fileID: 1079302586576982177, guid: 9ec94cf30ce52604ab84edc33eeebb8e, type: 3}
   scoreText: {fileID: 2053214192}
+  gameOverText: {fileID: 284308494}
 --- !u!4 &889530359
 Transform:
   m_ObjectHideFlags: 0
